@@ -1,4 +1,4 @@
-# unsupervised-ml-house-price-analysis & predictions
+# ml-house-price-analysis & predictions
 
 ## Project Objective
 The objective of this project is to analyze house prices using unsupervised learning techniques and identify patterns and clusters in the data.
