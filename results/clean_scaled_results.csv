@@ -1,0 +1,8 @@
+model_name,data_steps,r2_train,r2_test,mae_train,mae_test,overfit_gap
+Linear Regression,clean-scaled,0.8114,0.7943,95834.86,97267.28,1.71
+Ridge Regression,clean-scaled,0.8114,0.7943,95834.78,97268.03,1.71
+Lasso Regression,clean-scaled,0.8114,0.7943,95837.29,97270.87,1.71
+KNN Regressor,clean-scaled,0.8815,0.8115,65605.77,80590.16,7.000000000000001
+Decision Tree,clean-scaled,0.9994,0.7928,814.95,95795.5,20.66
+Random Forest,clean-scaled,0.9829,0.8792,25985.2,68116.31,10.37
+XGBoost,clean-scaled,0.845,0.7722,90683.05,95283.5,7.28

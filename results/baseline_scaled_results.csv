@@ -1,0 +1,8 @@
+model_name,data_steps,r2_train,r2_test,mae_train,mae_test,overfit_gap
+Linear Regression,baseline-scaled,0.6991,0.7012,125033.16,127493.34,-0.21
+Ridge Regression,baseline-scaled,0.6991,0.7012,125030.99,127491.4,-0.21
+Lasso Regression,baseline-scaled,0.6991,0.7012,125033.1,127493.33,-0.21
+KNN Regressor,baseline-scaled,0.8693,0.7798,70833.83,93156.44,8.95
+Decision Tree,baseline-scaled,0.9992,0.7201,941.9,103509.79,27.91
+Random Forest,baseline-scaled,0.9823,0.854,25974.52,72561.1,12.83
+XGBoost,baseline-scaled,0.8408,0.754,89693.66,101475.16,8.68
